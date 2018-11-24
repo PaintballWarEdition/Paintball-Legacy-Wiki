@@ -1,4 +1,4 @@
-# Paintball-Legacy-Wiki
+# Paintball War Edition (Legacy) - Wiki
 
 Paintball War Edition is a Bukkit plugin which adds fun snowball fights to Minecraft. 'Paintball Legacy' denotes the versions v1.+ of that project. Later versions (v2.+) are in the works, but not available yet.
 
